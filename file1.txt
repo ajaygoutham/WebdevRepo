@@ -1,4 +1,4 @@
-Hello, Welcome to Git
+x, Welcome to Git
 
 ------------------------
 Edited by another user
