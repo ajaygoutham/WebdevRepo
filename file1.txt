@@ -1,4 +1,3 @@
-Welcome Gitx, Welcome to Git
-
+Gitx, Welcome to Git
 ------------------------
 Edited by another user
