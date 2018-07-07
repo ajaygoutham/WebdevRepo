@@ -1,1 +1,4 @@
 Hello, Welcome to Git
+
+------------------------
+Edited by another user
